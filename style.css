@@ -11,6 +11,7 @@
   background-color: #b59d92;
   transform: scale(1.05);
 }
+
 .dropdown {
   position: relative;
   display: inline-block;
@@ -43,6 +44,7 @@
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
 .zoomimage {
   transition: 0.5s;
 }
@@ -50,3 +52,6 @@
 .zoomimage:hover {
   transform: scale(1.2);
 }
+
+
+  
