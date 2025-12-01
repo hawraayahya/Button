@@ -43,3 +43,10 @@
 .dropdown:hover .dropdown-content {
   display: block;
 }
+.zoomimage {
+  transition: 0.5s;
+}
+
+.zoomimage:hover {
+  transform: scale(1.2);
+}
